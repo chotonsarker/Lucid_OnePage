@@ -1,0 +1,269 @@
+@media(max-width:991px){
+    .control ul{
+        margin: 56px 0;
+        padding: 0;
+    }
+    .control ul li {
+        margin-left: 12px;
+        margin-right: 0px;
+    }
+    .control ul li a {
+        padding: 13px 12px;
+        font-size: 13px;
+    } header h1 {
+        margin-top: 15px;
+        font-size: 32px;
+    }
+    header p{
+        margin: 20px 0;
+        margin-bottom: 30px;
+    }
+    .btn_dowonlod{
+        padding: 10px 17px;
+    }
+    .btn_view{
+        padding: 10px 17px;
+    }
+     .phone{
+        display: none;
+        position: static;      
+    }
+    .mobile_phone{
+        display: inherit;
+        margin: auto;
+        text-align: center;
+        margin-top: 30px;
+    }
+    .heading h1 {
+        font-size: 32px;
+        margin-top: 3px;
+    }
+    .content {
+        margin-top: 35px;
+    }
+    .overview_section {
+        padding: 40px 0;
+    }
+    .phone_content {
+        padding: 0px 0;
+    }
+    .beautiful {
+        padding: 30px 0;
+    }
+    .phone_content h1 {
+        font-size: 32px;
+        margin: 3px 0 6px;
+    }
+    .phone_content span {
+        margin-bottom: 10px;
+    }
+    .supper {
+        padding: 0px 0;
+    }
+    .supper_content h1 {
+        font-size: 27px;
+        margin: 5px 0 8px;
+    }
+    .supper_content p{
+        font-size: 16px;
+    } 
+    .iphone{
+        margin-top: 80px;
+    }
+    .supper_content {
+        margin: 60px 0;
+    }
+    .slid_section{
+        padding: 40px 0;
+    }
+    .black_content h2{
+        font-size: 30px;
+    }
+    .plan {
+        padding: 30px;
+    }
+    .card{
+        margin-top: 30px;
+        width: 80%;
+        padding: 0;
+    }
+    .box_1 {
+        font-size: 20px;
+    }
+    .form {
+        padding: 50px 30px;
+        width: 63%;
+        margin-bottom: -18px;
+    }
+    .contact_section {
+        padding: 40px 0;
+        padding-bottom: 230px;
+    }
+
+}
+@media(max-width:767px){
+    .nav-item{
+        text-align: center;
+        display: flex;
+        justify-content: center;
+    }
+    .phone{
+        display: none;
+        position: static;
+        
+    }
+    .height{
+        text-align: center;
+        flex-direction: column-reverse;
+    }
+    header p {
+        margin: 25px 0;
+        margin-bottom: 25px;
+    }
+    .mobile_phone{
+        display: inherit;
+        margin: auto;
+        text-align: center;
+        margin-bottom: 0px;
+        width: 60%;
+    }
+    .iphone {
+        margin-top: 25px;
+    }
+    header{
+        padding-bottom: 30px;
+    }
+    .black{
+        padding: 15px 0;
+    }
+    .black_content{
+        text-align: center;
+        padding: 15px 0;
+    }
+    .control ul li a{
+        padding: 12px 16px;
+    }
+    .form{
+        margin-bottom: -30px;
+        width: 60%;
+        padding: 30px 46px;
+    }
+    .main_content {
+        padding: 30px 0;
+    }
+    .phone_two{
+        text-align: center;
+        width: 60%;
+    }
+    .phone_content {
+        padding: 10px 0;
+    }
+    .beautiful {
+        padding: 20px 0;
+    }
+    .supper{
+        padding: 0px;
+    }
+    .supper_content{
+        margin: 30px 0;
+    }
+    .control ul{
+        margin: 0;
+        padding: 0;
+    }
+    .phone_content h1 {
+        font-size: 32px;
+        margin: 8px 0;
+    }
+    .heading h1 {
+        font-size: 28px;
+        margin-top: 4px;
+    }
+    .supper_content h1 {
+        font-size: 30px;
+        margin: 2px 0 12px;
+    }
+    .supper_content span{
+        margin-bottom: 10px;
+    }
+    .slid_section{
+        padding: 30px 0;
+    }
+    .contact_section {
+        padding: 50px 0;
+        padding-bottom: 330px;
+    }
+}
+@media(max-width:575px){
+    .beautiful img{
+        width: 100%;
+        margin: auto;
+    }
+    .control ul{
+        margin: 25px;
+    }
+    .contact_section{
+        padding-bottom: 452px;
+    }
+    .form{
+        width: 80%;
+        bottom: -25px;
+        padding: 70px 50px;
+    }
+    .overview_section {
+        padding: 25px 0;
+    }
+    .content {
+        margin-top: 30px;
+    }
+    .phone_content h1 {
+        font-size: 30px;
+        margin: 5px 0;
+    }
+    .supper_content {
+        margin: 20px 0;
+    }
+    
+    .black_content{
+        padding: 0;
+        text-align: center;
+    }
+    .black_content h2{
+        font-size: 25px;
+        margin: auto;
+    }
+    .menu h3{
+        font-size: 30px;
+    }
+    .main_content {
+        padding: 20px 0;
+    }
+    header h1 {
+        font-size: 30px;
+    }
+    .mobile_phone {
+        margin-bottom: 0px;
+        width: 90%;
+    }
+}
+@media(max-width:425px){
+    .control ul{
+        padding: 0;
+    }
+    .control ul li {
+        margin-left: 10px;
+        margin-right: 0px;
+    }
+    .form{
+        bottom: -25px;
+        padding: 70px 50px;
+    }
+    
+}
+@media(max-width:320px){
+    .control ul li a{
+        padding: 10px 7px;
+        font-size: 12px;
+    }
+
+}
